@@ -53,4 +53,9 @@ public class MainActivity extends AppCompatActivity {
     {
         int i=9+1;
     }
+    public void  jhjh()
+    {
+        int l=9;
+        int g=0;
+    }
 }
